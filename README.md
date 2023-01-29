@@ -12,7 +12,7 @@ We'll be using in this project:
 - build_runner: ^2.3.3
 - build_verify: ^3.1.0
 
-For a complete guide about how to work with go_router, take a look at my [Medium Article]()
+For a complete guide about how to work with go_router, take a look at my [Medium Article](https://medium.com/@antonio.tioypedro1234/flutter-go-router-the-essential-guide-349ef39ec5b3)
 
 ```dart
 import 'package:go_router/go_router.dart';
